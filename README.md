@@ -94,25 +94,25 @@ NHIS data.
 
 ### General overview
 
-![General Overview](https://github.com/Aakash-U/Tableau-Dashboard-For-National-Health-Interview-Survey/blob/main/screenshots/General%20Overview.png?raw=true)
+![General Overview](./screenshots/General%20Overview.png)
 
 ### Workbook views
 
-![Workbook 1](https://github.com/Aakash-U/Tableau-Dashboard-For-National-Health-Interview-Survey/blob/main/screenshots/Workbook%201.png?raw=true)
+![Workbook 1](./screenshots/Workbook%201.png)
 
-![Workbook 2](https://github.com/Aakash-U/Tableau-Dashboard-For-National-Health-Interview-Survey/blob/main/screenshots/Workbook%202.png?raw=true)
+![Workbook 2](./screenshots/Workbook%202.png)
 
 ### Gender‑based analysis
 
-![Only Females](https://github.com/Aakash-U/Tableau-Dashboard-For-National-Health-Interview-Survey/blob/main/screenshots/Only%20Females.png?raw=true)
+![Only Females](./screenshots/Only%20Females.png)
 
-![Only Males](https://github.com/Aakash-U/Tableau-Dashboard-For-National-Health-Interview-Survey/blob/main/screenshots/Only%20Males.png?raw=true)
+![Only Males](./screenshots/Only%20Males.png)
 
 ### Age‑specific analysis
 
-![Age 26](https://github.com/Aakash-U/Tableau-Dashboard-For-National-Health-Interview-Survey/blob/main/screenshots/Age%3D%2026.png?raw=true)
+![Age 26](./screenshots/Age%3D%2026.png)
 
-![Age 57](https://github.com/Aakash-U/Tableau-Dashboard-For-National-Health-Interview-Survey/blob/main/screenshots/Age%20=%2057.png?raw=true)
+![Age 57](./screenshots/Age%20=%2057.png)
 
 ## Installation / setup
 
