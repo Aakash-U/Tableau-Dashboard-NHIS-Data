@@ -104,7 +104,7 @@ NHIS data.
 *Worksheet 1: counts by diabetes/hyperlipidemia status with demographic
 filters.*
 
-![Workbook 2](./screenshots/Workbook%202.png)  
+![Workbook 2](./screenshots/Worrkbook 2.png)  
 *Worksheet 2: horizontal line graph showing diabetes counts stratified by
 hyperlipidemia.*
 
@@ -121,7 +121,7 @@ hyperlipidemia.*
 ![Age 26](./screenshots/Age%3D%2026.png)  
 *View restricted to 26‑year‑olds; pre‑diabetes category visible.*
 
-![Age 57](./screenshots/Age%20=%2057.png)  
+![Age 57](./screenshots/Age= 57.png)  
 *View restricted to 57‑year‑olds; demonstrates higher diabetes/hyperlipidemia
 prevalence in older adults.
 
