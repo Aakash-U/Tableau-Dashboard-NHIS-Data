@@ -94,25 +94,36 @@ NHIS data.
 
 ### General overview
 
-![General Overview](./screenshots/General%20Overview.png)
+![General Overview](./screenshots/General%20Overview.png)  
+*Full dashboard with age/sex filters, cross‑tab of diabetes vs. hyperlipidemia
+(left) and the horizontal line graph (right).*
 
 ### Workbook views
 
-![Workbook 1](./screenshots/Workbook%201.png)
+![Workbook 1](./screenshots/Workbook%201.png)  
+*Worksheet 1: counts by diabetes/hyperlipidemia status with demographic
+filters.*
 
-![Workbook 2](./screenshots/Workbook%202.png)
+![Workbook 2](./screenshots/Workbook%202.png)  
+*Worksheet 2: horizontal line graph showing diabetes counts stratified by
+hyperlipidemia.*
 
 ### Gender‑based analysis
 
-![Only Females](./screenshots/Only%20Females.png)
+![Only Females](./screenshots/Only%20Females.png)  
+*Dashboard filtered to female respondents; used to compare sex differences.*
 
-![Only Males](./screenshots/Only%20Males.png)
+![Only Males](./screenshots/Only%20Males.png)  
+*Dashboard filtered to male respondents.*
 
 ### Age‑specific analysis
 
-![Age 26](./screenshots/Age%3D%2026.png)
+![Age 26](./screenshots/Age%3D%2026.png)  
+*View restricted to 26‑year‑olds; pre‑diabetes category visible.*
 
-![Age 57](./screenshots/Age%20=%2057.png)
+![Age 57](./screenshots/Age%20=%2057.png)  
+*View restricted to 57‑year‑olds; demonstrates higher diabetes/hyperlipidemia
+prevalence in older adults.
 
 ## Installation / setup
 
