@@ -11,9 +11,7 @@ to filter by age and sex and to observe how the two conditions co‑occur.
 ## Motivation
 
 The goal of the project was to gain hands‑on experience with healthcare data
-science tools and to investigate a well‑studied medical topic using a
-publicly‑available survey. The dashboard is intended as a proof‑of‑concept
-for interactive analysis of national survey data.
+science tools and to investigate a well‑studied medical topic using a publicly‑available survey.
 
 ## Dataset
 
@@ -190,6 +188,15 @@ Annual data and documentation are available from the CDC:
 
 - 2017‑2018 archive: https://archive.cdc.gov/www_cdc_gov/nchs/nhis/1997-2018.htm
 - 2019‑2021 documentation: https://www.cdc.gov/nchs/nhis/documentation/2025-nhis.html
+
+## Future improvements
+
+The association between diabetes and hyperlipidemia has been extensively researched in epidemiology and public‑health literature; many peer‑reviewed papers have quantified the same age and sex related patterns that the dashboard reproduces. This was an **exploratory self‑project** to understand and develop a **data‑driven approach** towards the topic using **healthcare data science** techniques. Nevertheless, there are a number of sensible extensions that could be undertaken:
+
+a. add predictive modelling (logistic regression, decision trees, etc.) to estimate individual risk from survey covariates.
+b. expand the dashboard to include additional conditions (hypertension, obesity, cardiovascular disease) or demographic variables (race/ethnicity, income).
+c. automate data ingestion and workbook rebuilding when new NHIS releases become available. 
+d. integrate spatial mapping or link to external clinical guidelines.
 
 ## Author / contact
 
