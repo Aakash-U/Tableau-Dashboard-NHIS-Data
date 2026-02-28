@@ -203,7 +203,3 @@ Credit to the National Center for Health Statistics (NCHS) and the NHIS
 program for conducting the survey and providing the data.
 
 ---
-
-*This README was updated to remove emojis, standardize formatting, correct
-paths, add tool/instruction sections, and incorporate accurate dataset links
-and contact information.*
