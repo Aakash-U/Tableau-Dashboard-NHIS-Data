@@ -50,13 +50,13 @@ the literature:
   in the 45‑ to 74‑year range.
 - **Sex differences.** Males exhibit approximately 10–15 % higher rates of
   diagnosed diabetes than females across most age groups (see the “Only Males”
-  and “Only Females” snapshots).
+  and “Only Females” in  screenshots).
 - **Comorbidity with hyperlipidemia.** A large proportion of respondents
   reporting diabetes also report high cholesterol; the horizontal‑line chart
   breaks out counts by hyperlipidemia status and shows the bulk of diabetic
   cases in the “yes” category.
 - **Prediabetes is common in middle‑aged adults.** The age‑26 and age‑57
-  snapshots highlight how pre‑diabetic classification is concentrated in the
+  screenshots highlight how pre‑diabetic classification is concentrated in the
   35–60 age range.
 
 These insights are consistent with peer‑reviewed epidemiological studies of US
@@ -88,7 +88,7 @@ NHIS data.
 - **Dashboard:** combines the two worksheets with interactive filters; users
   may select age ranges and sex to update both views simultaneously.
 
-## Dashboard snapshots
+## Dashboard screenshots
 
 ### General overview
 
